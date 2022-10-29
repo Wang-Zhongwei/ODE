@@ -1,0 +1,12 @@
+{
+    "g": 9.8,
+    "l": 0.1,
+    "Omega0": [0.1, 0.3, 0.6],
+
+    "theta0": 0.2,
+    "theta_dot0": 0,
+    "phi0": 0,
+
+    "numOfPeriods": 5,
+    "timeSteps": 10000
+}
